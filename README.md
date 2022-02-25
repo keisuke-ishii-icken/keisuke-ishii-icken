@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @keisuke-ishii-icken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-keisuke-ishii-icken/keisuke-ishii-icken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="http://qiita.com/k-ic">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/k-ic/posts.svg" />
+  </a>
